@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895118631830",
+    "project_id": "hidanganfit",
+    "storage_bucket": "hidanganfit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895118631830:android:4e8eee3af0d2e467aab3b7",
+        "android_client_info": {
+          "package_name": "com.hidanganfit.org"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzAQO3meaNOoFrTS8p_urb9GpZ5Pb112o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
